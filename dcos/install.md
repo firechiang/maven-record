@@ -1,4 +1,4 @@
-#### 一、下载安装，[官方下载以及安装文档](https://help.sonatype.com/repomanager3/download)（注意：下载可能需要翻墙，当前项目data目录下包含安装文件）
+#### 一、下载安装，[官方下载以及安装文档](https://help.sonatype.com/repomanager3/download)（注意：下载可能需要翻墙，可到我的百度云盘下载）
 ```bash
 $ wget -P /home/maven-nexus https://sonatype-download.global.ssl.fastly.net/repository/downloads-prod-group/3/nexus-3.23.0-03-unix.tar.gz
 $ tar xvzf nexus-3.23.0-03-unix.tar.gz 
